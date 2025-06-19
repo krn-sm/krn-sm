@@ -7,6 +7,7 @@
 
 ## 🔨 Projects
 - 💤 [Smart Pillow Pad](https://github.com/krn-sm/smartpillowpad): IoT-based sleep monitoring using ESP32
+- 🎬 [movie-finder-app](https://github.com/krn-sm/my-first-react-app): A sleek React + Vite movie explorer with trailer modals, genre & rating filters and trending searches
 - 🔮 [useless-proj-temp](https://github.com/krn-sm/useless-proj-temp): Possibly the most useless project ever. Or maybe a secret startup in disguise.
 <!--- 🌐 [Portfolio Website](https://github.com/krn-sm/portfolio): Personal portfolio built with React + Vite-->
 
