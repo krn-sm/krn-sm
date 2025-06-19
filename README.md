@@ -17,10 +17,6 @@
 ## Top Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krn-sm)
 
-## Streak Stats
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=krn-sm)
-
 ## 📫 Reach me at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/kiran-s-m-here)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:your.kiranmanikkath20@gmail.com)
