@@ -1,10 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Kiran
+
+🎓 ECE Student | 💻 Passionate about Coding, IoT, and Web Dev  
+🚀 Currently building: [Smart Pillow Pad](https://github.com/krn-sm/smartpillowpad)  
+📦 Exploring: React · Firebase · ESP32 · MQTT · Tailwind CSS  
+🌱 Learning: Full Stack Dev · AI/ML · Embedded Systems
+
+## 🔨 Projects
+- 💤 [Smart Pillow Pad](https://github.com/krn-sm/smartpillowpad): IoT-based sleep monitoring using ESP32
+- 🔮 [useless-proj-temp](https://github.com/krn-sm/useless-proj-temp): Possibly the most useless project ever. Or maybe a secret startup in disguise.
+<!--- 🌐 [Portfolio Website](https://github.com/krn-sm/portfolio): Personal portfolio built with React + Vite-->
+
+## 📊 GitHub Stats
+![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=krn-sm&show_icons=true&theme=radical)
+
+## Top Languages
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krn-sm)
+
+## Streak Stats
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=krn-sm)
+
+## 📫 Reach me at
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/kiran-s-m-here)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:your.kiranmanikkath20@gmail.com)
+
 
 <!--
-**krn-sm/krn-sm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
