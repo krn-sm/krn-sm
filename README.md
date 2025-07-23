@@ -2,7 +2,7 @@
 
 🎓 ECE Student | 💻 Passionate about Coding, IoT, and Web Dev  
 🚀 Currently building: [Smart Pillow Pad](https://github.com/krn-sm/smartpillowpad)  
-📦 Exploring: React · Firebase · ESP32 · MQTT · Tailwind CSS  
+📦 Exploring: React · Firebase · Tailwind CSS  
 🌱 Learning: Full Stack Dev · AI/ML · Embedded Systems
 
 ## 🔨 Projects
